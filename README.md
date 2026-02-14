@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hey, I'm Andrew Jacop
+# 👋 Hey, I'm Andrew Jacob
 
 ### Full-Stack Developer | Rapid Tech Adapter | AI Integration Specialist
 
