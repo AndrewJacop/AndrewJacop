@@ -124,6 +124,24 @@ I build production applications across **mobile, backend, AI, and desktop platfo
 📚 **Continuous Learning** - Pursuing AWS Cloud Practitioner, MongoDB Developer certifications
 
 ---
+ 
+## 🔧 Open Source Contributions
+
+| Project | Description | Tech Stack | Links |
+|:---|:---|:---|:---|
+| **Jellyfin Android TV** | Implemented playlist pagination for large media libraries | Kotlin, Android TV | [Feature Branch](https://github.com/AndrewJacop/jellyfin-androidtv/tree/feature/playlist_pagination) |
+| **Vasari Sync** | Cross-platform file synchronization tool | Python, TypeScript | [Repository](https://github.com/AndrewJacop/vasari-sync) |
+
+### Featured Contribution: Jellyfin Playlist Pagination 📺
+
+Contributed to **Jellyfin** (20K+ ⭐), the free media server platform, by implementing pagination for large playlists in the Android TV client. This improvement handles libraries with thousands of items more efficiently.
+
+```kotlin
+// Tackling performance bottlenecks in media browsing
+// Feature branch: feature/playlist_pagination
+```
+ 
+---
 
 ## 💡 Philosophy
 
